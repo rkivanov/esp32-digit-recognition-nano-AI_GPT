@@ -10,8 +10,8 @@
             "includePath": [
                 "C:/Users/rkiva_4gxa0sa/OneDrive/Projects/AI/Jetson nano/Jetson nano esp32-2432S028/esp32_digit_recognition_nano_AI_GPT/include",
                 "C:/Users/rkiva_4gxa0sa/OneDrive/Projects/AI/Jetson nano/Jetson nano esp32-2432S028/esp32_digit_recognition_nano_AI_GPT/src",
+                "C:/Users/rkiva_4gxa0sa/OneDrive/Projects/AI/Jetson nano/Jetson nano esp32-2432S028/esp32_digit_recognition_nano_AI_GPT/lib/XPT2046_Touchscreen",
                 "C:/Users/rkiva_4gxa0sa/.platformio/packages/framework-arduinoespressif32/libraries/WiFi/src",
-                "C:/Users/rkiva_4gxa0sa/OneDrive/Projects/AI/Jetson nano/Jetson nano esp32-2432S028/esp32_digit_recognition_nano_AI_GPT/.pio/libdeps/esp32dev/XPT2046_Touchscreen",
                 "C:/Users/rkiva_4gxa0sa/OneDrive/Projects/AI/Jetson nano/Jetson nano esp32-2432S028/esp32_digit_recognition_nano_AI_GPT/.pio/libdeps/esp32dev/TFT_eSPI",
                 "C:/Users/rkiva_4gxa0sa/.platformio/packages/framework-arduinoespressif32/libraries/LittleFS/src",
                 "C:/Users/rkiva_4gxa0sa/.platformio/packages/framework-arduinoespressif32/libraries/SPIFFS/src",
@@ -249,8 +249,8 @@
                 "path": [
                     "C:/Users/rkiva_4gxa0sa/OneDrive/Projects/AI/Jetson nano/Jetson nano esp32-2432S028/esp32_digit_recognition_nano_AI_GPT/include",
                     "C:/Users/rkiva_4gxa0sa/OneDrive/Projects/AI/Jetson nano/Jetson nano esp32-2432S028/esp32_digit_recognition_nano_AI_GPT/src",
+                    "C:/Users/rkiva_4gxa0sa/OneDrive/Projects/AI/Jetson nano/Jetson nano esp32-2432S028/esp32_digit_recognition_nano_AI_GPT/lib/XPT2046_Touchscreen",
                     "C:/Users/rkiva_4gxa0sa/.platformio/packages/framework-arduinoespressif32/libraries/WiFi/src",
-                    "C:/Users/rkiva_4gxa0sa/OneDrive/Projects/AI/Jetson nano/Jetson nano esp32-2432S028/esp32_digit_recognition_nano_AI_GPT/.pio/libdeps/esp32dev/XPT2046_Touchscreen",
                     "C:/Users/rkiva_4gxa0sa/OneDrive/Projects/AI/Jetson nano/Jetson nano esp32-2432S028/esp32_digit_recognition_nano_AI_GPT/.pio/libdeps/esp32dev/TFT_eSPI",
                     "C:/Users/rkiva_4gxa0sa/.platformio/packages/framework-arduinoespressif32/libraries/LittleFS/src",
                     "C:/Users/rkiva_4gxa0sa/.platformio/packages/framework-arduinoespressif32/libraries/SPIFFS/src",
