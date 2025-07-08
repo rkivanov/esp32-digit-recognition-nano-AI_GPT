@@ -20,8 +20,8 @@ void app_setup() {
     Serial.println(topic);
     // Process message here if needed
   });
+  display_init();           // Set up display  
   touch_init();             // Attach interrupt or polling touch init
-  display_init();           // Set up display
   ui_init();                // Draw initial UI layout
 }
 
